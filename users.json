@@ -1,10 +1,10 @@
-[
-  {
-    "username": "1",
-    "password": "1"
-  },
-  {
-    "username": "admin",
-    "password": "admin123"
-  }
-]
+["<!-- About Image -->
+<img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?q=80&w=1200&auto=format&fit=crop"
+alt="Office">
+
+<!-- Team -->
+<img src="https://randomuser.me/api/portraits/men/32.jpg" alt="CEO">
+
+<img src="https://randomuser.me/api/portraits/women/44.jpg" alt="Designer">
+
+<img src="https://randomuser.me/api/portraits/men/76.jpg" alt="Developer">"]
